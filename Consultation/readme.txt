@@ -1,0 +1,1 @@
+le fichier texte de test contient des informations de type de celle du document Word.

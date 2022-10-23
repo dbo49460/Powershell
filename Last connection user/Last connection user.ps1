@@ -1,0 +1,1 @@
+﻿Get-ADComputer -Identity MININT-TS76QBS -Properties * | FT Name, LastLogonDate -Autosize

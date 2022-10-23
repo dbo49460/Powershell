@@ -1,0 +1,1 @@
+FR-RG-FINANCE-KARINE-RW;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global

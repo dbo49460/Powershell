@@ -1,0 +1,1 @@
+﻿Get-ChildItem D:\FICHIERS_MARAIS\export -Recurse -include *.jpg | Measure-Object | %{$_.Count}

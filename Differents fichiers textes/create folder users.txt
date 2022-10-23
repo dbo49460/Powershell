@@ -1,0 +1,23 @@
+foreach($line in Get-Content "C:\users\d.bouricand\documents\rep.txt")
+
+{
+    try
+    {
+    New-Item -Path "D:\UTILISATEURS\" -Name $line -ItemType "directory"
+    }
+    catch
+    {
+            Write-Warning "erreur"
+    }
+
+            Write-Host "suite du script"
+    
+    $user = "Tesmecgroup\$line"
+$dfsfolder = "D:\UTILISATEURS\$line"
+$acl = get-acl -path $dfsfolder
+$new=$user,”Modify”,”ContainerInherit,ObjectInherit”,”None”,”Allow”
+$accessRule = new-object System.Security.AccessControl.FileSystemAccessRule $new
+$acl.AddAccessRule($accessRule)
+$acl | Set-Acl $dfsfolder
+ 
+  } 

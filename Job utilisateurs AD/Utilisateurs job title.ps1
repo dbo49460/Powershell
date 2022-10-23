@@ -1,0 +1,1 @@
+﻿Get-ADUser -Filter {Enabled -eq $true} -SearchBase 'OU=Users, OU=France, DC=tesmecgroup, DC=local' -Properties Enabled, cn, Department, StreetAddress, Title, Postalcode, Description,telephonenumber, mobile | select cn, Department, StreetAddress, Title, Postalcode, Description,telephonenumber, mobile |  Export-CSV "C:\Users\d.bouricand\Desktop\output6.csv"

@@ -1,0 +1,6 @@
+FR-RG-FINANCE-DAVID-RW;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-FINANCE-KEVIN-RW;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-FINANCE-ROZENN-RW;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-FINANCE-NANCY-RW;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-FINANCE-NATH-RW;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-FINANCE-MARIE-RW;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global

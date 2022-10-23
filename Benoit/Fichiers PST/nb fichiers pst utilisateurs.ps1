@@ -1,0 +1,1 @@
+﻿Get-ChildItem D:\UTILISATEURS -Recurse -include *.pst | Measure-Object | %{$_.Count}

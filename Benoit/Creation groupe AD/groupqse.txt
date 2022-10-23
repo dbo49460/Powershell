@@ -1,0 +1,12 @@
+FR-RG-QSE-CLIENTS-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-ENVIRONNEMENT-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-INSTALLATION-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-NORMES_REGLEMENTATION-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-PHOTOS-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-POSTE A SOUDER-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-QUALITE-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-RH COMMUNICATION-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-RSE-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-SECURITE-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-SERVICE GENERAUX-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
+FR-RG-QSE-VEHICULE ARVAL ET LEASE-R;OU=Groups,OU=France,DC=tesmecgroup,DC=local;Global
